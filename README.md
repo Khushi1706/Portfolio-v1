@@ -3,8 +3,8 @@ Welcome to my portfolio! This repository showcases my skills and experiences. Fe
 
 ### Responsive Design: 
 The portfolio is designed to provide an optimal viewing experience across a range of devices.
-### Project Highlights: 
-Explore a curated selection of my key projects, each demonstrating different aspects of my skills.
+### Industrial Experiance Highlights: 
+Explore the highlights of my industrial experience, showcasing key achievements and roles from previous positions.
 ### Skills Showcase:
 Discover the technologies and tools I'm proficient in, providing insights into my technical capabilities.
 ### Contact Information: 

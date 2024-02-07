@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.45e47326.css",
-    "main.js": "/static/js/main.9d550bc2.js",
-    "static/js/787.d8dae866.chunk.js": "/static/js/787.d8dae866.chunk.js",
-    "static/media/bg-1.jpg": "/static/media/bg-1.2fa9578e17dd5ae9e8a5.jpg",
-    "static/media/Working-women.gif": "/static/media/Working-women.d69942f2a699469841fb.gif",
-    "static/media/Khazi_Shiekh_Qurrath_Shehzadi_FS_ResumeM.pdf": "/static/media/Khazi_Shiekh_Qurrath_Shehzadi_FS_ResumeM.14e1ba004f5d277144ee.pdf",
-    "static/media/c-1.svg": "/static/media/c-1.3fec0389704d5511688e9434ba9af4d8.svg",
-    "static/media/euclid.png": "/static/media/euclid.037f528c51df5ecfa64b.png",
-    "static/media/cloudDark.png": "/static/media/cloudDark.51edaa54cabe7b964ae9.png",
-    "static/media/nineleaps_logo.png": "/static/media/nineleaps_logo.8d8bc44c80f1582679c9.png",
-    "static/media/zuddl_logo.png": "/static/media/zuddl_logo.be65146f06caa60b2a2a.png",
-    "static/media/realpage_logo.png": "/static/media/realpage_logo.a274e63869a2833c74ce.png",
-    "static/media/my_awesome_loader.svg": "/static/media/my_awesome_loader.17bec8825b241c514c140a96b5d05e87.svg",
-    "index.html": "/index.html",
-    "main.45e47326.css.map": "/static/css/main.45e47326.css.map",
-    "main.9d550bc2.js.map": "/static/js/main.9d550bc2.js.map",
-    "787.d8dae866.chunk.js.map": "/static/js/787.d8dae866.chunk.js.map"
+    "main.css": "/Portfolio-v1/static/css/main.45e47326.css",
+    "main.js": "/Portfolio-v1/static/js/main.d2aada8b.js",
+    "static/js/787.d8dae866.chunk.js": "/Portfolio-v1/static/js/787.d8dae866.chunk.js",
+    "static/media/bg-1.jpg": "/Portfolio-v1/static/media/bg-1.2fa9578e17dd5ae9e8a5.jpg",
+    "static/media/Working-women.gif": "/Portfolio-v1/static/media/Working-women.d69942f2a699469841fb.gif",
+    "static/media/Khazi_Shiekh_Qurrath_Shehzadi_FS_ResumeM.pdf": "/Portfolio-v1/static/media/Khazi_Shiekh_Qurrath_Shehzadi_FS_ResumeM.14e1ba004f5d277144ee.pdf",
+    "static/media/c-1.svg": "/Portfolio-v1/static/media/c-1.3fec0389704d5511688e9434ba9af4d8.svg",
+    "static/media/euclid.png": "/Portfolio-v1/static/media/euclid.037f528c51df5ecfa64b.png",
+    "static/media/cloudDark.png": "/Portfolio-v1/static/media/cloudDark.51edaa54cabe7b964ae9.png",
+    "static/media/nineleaps_logo.png": "/Portfolio-v1/static/media/nineleaps_logo.8d8bc44c80f1582679c9.png",
+    "static/media/zuddl_logo.png": "/Portfolio-v1/static/media/zuddl_logo.be65146f06caa60b2a2a.png",
+    "static/media/realpage_logo.png": "/Portfolio-v1/static/media/realpage_logo.a274e63869a2833c74ce.png",
+    "static/media/my_awesome_loader.svg": "/Portfolio-v1/static/media/my_awesome_loader.17bec8825b241c514c140a96b5d05e87.svg",
+    "index.html": "/Portfolio-v1/index.html",
+    "main.45e47326.css.map": "/Portfolio-v1/static/css/main.45e47326.css.map",
+    "main.d2aada8b.js.map": "/Portfolio-v1/static/js/main.d2aada8b.js.map",
+    "787.d8dae866.chunk.js.map": "/Portfolio-v1/static/js/787.d8dae866.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.45e47326.css",
-    "static/js/main.9d550bc2.js"
+    "static/js/main.d2aada8b.js"
   ]
 }
